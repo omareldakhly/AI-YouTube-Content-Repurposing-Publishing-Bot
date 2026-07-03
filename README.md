@@ -31,14 +31,13 @@ The workflow follows this process:
 
 ## Scenario Overview
 
-![Scenario Overview](images/scenario-overview.png)
+![Scenario Overview](scenario-overview.png)
 
 ---
 
 ## Portfolio Dashboard
 
-![Portfolio Dashboard](images/portfolio-dashboard.png)
-
+![Portfolio Dashboard](portfolio-dashboard.png)
 ---
 
 ## Published Outputs
@@ -46,15 +45,12 @@ The workflow follows this process:
 ### Facebook Output
 
 ![Facebook Output](images/facebook-output.png)
-
 ### Instagram Output
 
-![Instagram Output](images/instagram-output.png)
-
+![Instagram Output](instagram-output.png)
 ### LinkedIn Output
 
-![LinkedIn Output](images/linkedin-output.png)
-
+![LinkedIn Output](linkedin-output.png)
 ---
 
 ## Key Features
