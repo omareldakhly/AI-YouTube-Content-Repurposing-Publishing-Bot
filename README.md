@@ -44,7 +44,7 @@ The workflow follows this process:
 
 ### Facebook Output
 
-![Facebook Output](images/facebook-output.png)
+![Facebook Output](facebook-output.png)
 ### Instagram Output
 
 ![Instagram Output](instagram-output.png)
